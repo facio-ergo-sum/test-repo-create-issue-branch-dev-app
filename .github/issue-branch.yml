@@ -1,5 +1,5 @@
 mode: immediate
-openPR: true
+openPR: false
 prSkipCI: true
 copyIssueDescriptionToPR: true
 copyIssueLabelsToPR: true
