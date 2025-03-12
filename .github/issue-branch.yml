@@ -1,7 +1,3 @@
-mode: immediate
-openPR: false
-prSkipCI: true
-copyIssueDescriptionToPR: true
-copyIssueLabelsToPR: true
-copyIssueAssigneeToPR: true
-commentMessage: "✅ Work Branch Created!\n```git checkout ${branchName}```\ncopy this 👆"
+mode: auto
+openPR: true
+copyPullRequestTemplateToPR: true
